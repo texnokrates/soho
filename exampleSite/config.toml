@@ -1,6 +1,7 @@
 baseurl = "https://example.com/"
 languageCode = "en"
 title = "Soho Theme"
+theme = "github.com/alexandrevicenzi/soho"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 summarylength = 10
