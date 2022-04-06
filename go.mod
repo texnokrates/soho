@@ -1,3 +1,3 @@
-module github.com/alexandrevicenzi/soho
+module github.com/texnokrates/soho
 
 go 1.12
